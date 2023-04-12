@@ -12,6 +12,7 @@ dependencies = [
     "sketch>=0.3.5",
     "pyarrow>=11.0.0",
     "fastparquet>=2023.2.0",
+    "notebook>=6.5.4",
 ]
 requires-python = ">=3.10"
 license = {text = "MIT"}
